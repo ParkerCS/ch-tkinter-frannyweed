@@ -19,6 +19,9 @@
 # - Add an exception for the possible entry of zero radius (ZeroDivisionError Exception)
 # - Make your app unique by changing 3 or more DIFFERENT style attributes or kwargs for your app.  Perhaps consider: fonts, color, padding, widths, etc).  Put a comment in your code to tell me what you changed. If you change the font for all the widgets, that is ONE thing.  If you add padx to all your app widgets, that is ONE thing.  If you change the color of all your blocks, that is ONE thing.
 
+#I changed the fonts, colors, and weight. I also made the calculation appear, instead of having an empty space
+#awkwarly waiting for it.
+
 from tkinter import *
 from tkinter import font
 

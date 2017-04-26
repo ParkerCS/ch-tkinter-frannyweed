@@ -15,11 +15,11 @@
 # image, borders, justification, whatever you can find in tkinter library etc.)
 # Make a comment at the top or bottom of your code to tell me your 3 things you did. (Just to help me out in checking your assignment)
 
-#I changed the font size and color, along with the border on the question.
-
 from tkinter import *
 import random
 from tkinter import font
+
+#I changed the font, size, weight.
 
 class App():
     def __init__(self,master):
